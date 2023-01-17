@@ -998,4 +998,3 @@
 {"id":998,"location":"Stockport","travel":"DOWNFAST","connection_status":"warning","temperature":12,"ole_status":"danger","predict":"Warning","predict_status":"danger"},
 {"id":999,"location":"Derby","travel":"UPFAST","connection_status":"danger","temperature":1,"ole_status":"danger","predict":"Normal","predict_status":"danger"},
 {"id":1000,"location":"Leicester","travel":"DOWNFAST","connection_status":"danger","temperature":21,"ole_status":"warning","predict":"Warning","predict_status":"warning"}]
->>>>>>> f1093bba5f925b148cec91ee49b92e08a670ffce
